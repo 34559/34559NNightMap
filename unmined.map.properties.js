@@ -8,7 +8,7 @@ var UnminedMapProperties = {
     minRegionZ: -3,
     maxRegionX: 2,
     maxRegionZ: 2,
-    worldName: "chunky generate",
+    worldName: "Nether Night",
     background: "#000000",
     markers: new Array()
 }
